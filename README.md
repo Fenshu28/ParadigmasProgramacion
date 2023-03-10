@@ -1,5 +1,5 @@
 # ParadigmasProgramacion
-Implementando diversos paradigmas para un mismo algoritmo. 
+Implementando diversos paradigmas para detectar si un número dado es divisor otro número.
 
 # Lenguajes y paradigmas que se utilizarón
 - Paradigma imperativo - Lenguaje C 
